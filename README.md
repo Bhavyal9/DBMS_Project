@@ -13,5 +13,3 @@ Used Tech:
 4. Node.js
 5. Express
 6. Sequelize ORM
-
-Deployed: [<u>Heroku</u>](https://money-matters-miniproj.herokuapp.com/)
